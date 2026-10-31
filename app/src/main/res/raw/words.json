@@ -870,18 +870,6 @@
       ]
     },
     {
-      "id": "w_59",
-      "word": " виртуоз",
-      "maskedWord": "вирт_оз",
-      "missingLetter": "у",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_VOC",
-      "options": [
-        "о",
-        "у"
-      ]
-    },
-    {
       "id": "w_60",
       "word": " виртуозный",
       "maskedWord": "в_ртуозный",
@@ -3847,13 +3835,13 @@
       "wordPart": "ROOT",
       "ruleId": "ROOT_VOC",
       "options": [
-        "у",
-        "ю"
+        "е",
+        "и"
       ]
     },
     {
       "id": "w_309",
-      "word": " иней",
+      "word": "иней",
       "maskedWord": "ин_й",
       "missingLetter": "е",
       "wordPart": "ROOT",
@@ -4322,7 +4310,7 @@
     {
       "id": "w_348",
       "word": " офицерский",
-      "maskedWord": "оф_ицерский",
+      "maskedWord": "оф_церский",
       "missingLetter": "и",
       "wordPart": "ROOT",
       "ruleId": "ROOT_VOC",
@@ -6301,18 +6289,6 @@
       ]
     },
     {
-      "id": "w_517",
-      "word": " замиривание",
-      "maskedWord": "зам_ривание",
-      "missingLetter": "и",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_MER_MIR",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
       "id": "w_518",
       "word": " обмирать",
       "maskedWord": "обм_рать",
@@ -7069,18 +7045,6 @@
       ]
     },
     {
-      "id": "w_582",
-      "word": " постилать",
-      "maskedWord": "пост_лать",
-      "missingLetter": "и",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_STEL_STIL",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
       "id": "w_583",
       "word": " подстилать",
       "maskedWord": "подст_лать",
@@ -7789,18 +7753,6 @@
       ]
     },
     {
-      "id": "w_643",
-      "word": " загар",
-      "maskedWord": "заг_р",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_GAR_GOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_644",
       "word": " угар",
       "maskedWord": "уг_р",
@@ -7828,18 +7780,6 @@
       "id": "w_646",
       "word": " нагар",
       "maskedWord": "наг_р",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_GAR_GOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
-      "id": "w_648",
-      "word": " гарь",
-      "maskedWord": "г_рь",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_GAR_GOR",
@@ -7981,22 +7921,10 @@
       ]
     },
     {
-      "id": "w_660",
-      "word": " зорька",
-      "maskedWord": "з_рька",
-      "missingLetter": "о",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_ZAR_ZOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_661",
-      "word": " зори",
+      "word": "заря",
       "maskedWord": "з_ри",
-      "missingLetter": "о",
+      "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_ZAR_ZOR",
       "options": [
@@ -8107,18 +8035,6 @@
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
-      "id": "w_671",
-      "word": " позорить",
-      "maskedWord": "поз_рить",
-      "missingLetter": "о",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_ZAR_ZOR",
       "options": [
         "а",
         "о"
@@ -8271,7 +8187,7 @@
     {
       "id": "w_684",
       "word": " поклониться",
-      "maskedWord": "поклон_ться",
+      "maskedWord": "покл_ниться",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_KLAN_KLON",
@@ -8389,21 +8305,9 @@
       ]
     },
     {
-      "id": "w_701",
-      "word": " тварь",
-      "maskedWord": "тв_рь",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_TVAR_TVOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_702",
-      "word": " творец",
-      "maskedWord": "твор_ц",
+      "word": "творец",
+      "maskedWord": "тв_рец",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8414,8 +8318,8 @@
     },
     {
       "id": "w_703",
-      "word": " творение",
-      "maskedWord": "твор_ние",
+      "word": "творение",
+      "maskedWord": "тв_рение",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8427,7 +8331,7 @@
     {
       "id": "w_704",
       "word": " творения",
-      "maskedWord": "твор_ния",
+      "maskedWord": "тв_рения",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8439,7 +8343,7 @@
     {
       "id": "w_705",
       "word": " творить",
-      "maskedWord": "твор_ть",
+      "maskedWord": "тв_рить",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8451,7 +8355,7 @@
     {
       "id": "w_706",
       "word": " твориться",
-      "maskedWord": "твор_ться",
+      "maskedWord": "тв_риться",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8463,7 +8367,7 @@
     {
       "id": "w_707",
       "word": " сотворить",
-      "maskedWord": "сотвор_ть",
+      "maskedWord": "сотв_рить",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8475,7 +8379,7 @@
     {
       "id": "w_708",
       "word": " сотворение",
-      "maskedWord": "сотвор_ение",
+      "maskedWord": "сотв_рение",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8487,7 +8391,7 @@
     {
       "id": "w_709",
       "word": " сотворивший",
-      "maskedWord": "сотвор_вший",
+      "maskedWord": "сотв_ривший",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8509,33 +8413,9 @@
       ]
     },
     {
-      "id": "w_711",
-      "word": " вытворить",
-      "maskedWord": "вытвор_ть",
-      "missingLetter": "о",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_TVAR_TVOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_712",
       "word": " претворить",
       "maskedWord": "перетв_рить",
-      "missingLetter": "о",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_TVAR_TVOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
-      "id": "w_713",
-      "word": " растворить",
-      "maskedWord": "раств_рить",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_TVAR_TVOR",
@@ -8715,7 +8595,7 @@
     {
       "id": "w_731",
       "word": " скачите",
-      "maskedWord": "ск_чите",
+      "maskedWord": "ск_чи́те",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_SKAK_SKOCH",
@@ -9510,7 +9390,7 @@
       "maskedWord": "р_внять",
       "missingLetter": "а",
       "wordPart": "ROOT",
-      "ruleId": "ROOT_MAK_MOK",
+      "ruleId": "ROOT_RAVN_ROVN",
       "options": [
         "а",
         "о"
@@ -9522,7 +9402,7 @@
       "maskedWord": "прир_внять",
       "missingLetter": "а",
       "wordPart": "ROOT",
-      "ruleId": "ROOT_MAK_MOK",
+      "ruleId": "ROOT_RAVN_ROVN",
       "options": [
         "а",
         "о"
@@ -9566,7 +9446,7 @@
     },
     {
       "id": "w_803",
-      "word": " равный",
+      "word": "равный (по званию)",
       "maskedWord": "р_вный",
       "missingLetter": "а",
       "wordPart": "ROOT",
@@ -9866,8 +9746,8 @@
     },
     {
       "id": "w_831",
-      "word": " сплавлять",
-      "maskedWord": "сп_влять",
+      "word": "сплавлять",
+      "maskedWord": "спл_влять",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_PLAV_PLOV",
@@ -9880,18 +9760,6 @@
       "id": "w_832",
       "word": " заплывать",
       "maskedWord": "запл_вать",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_PLAV_PLOV",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
-      "id": "w_834",
-      "word": " приплывать",
-      "maskedWord": "припл_вать",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_PLAV_PLOV",
@@ -9940,18 +9808,7 @@
 
 
 
-    {
-      "id": "w_838",
-      "word": "безоблачный",
-      "maskedWord": "бе_облачный",
-      "missingLetter": "з",
-      "wordPart": "PREFIX",
-      "ruleId": "PRE_Z_S",
-      "options": [
-        "з",
-        "с"
-      ]
-    },
+
     {
       "id": "w_839",
       "word": " безжалостный",
@@ -10038,8 +9895,8 @@
     },
     {
       "id": "w_846",
-      "word": " прибывать",
-      "maskedWord": "пр_бывать",
+      "word": "прибывать",
+      "maskedWord": "пр_бывать (на платформу)",
       "missingLetter": "и",
       "wordPart": "PREFIX",
       "ruleId": "PRE_PRE_PRI",
@@ -10050,8 +9907,8 @@
     },
     {
       "id": "w_847",
-      "word": " пребывать",
-      "maskedWord": "пр_бывать",
+      "word": "пребывать",
+      "maskedWord": "пр_бывать (в городе)",
       "missingLetter": "е",
       "wordPart": "PREFIX",
       "ruleId": "PRE_PRE_PRI",
@@ -10063,7 +9920,7 @@
     {
       "id": "w_848",
       "word": " приемник",
-      "maskedWord": "пр_емник (наследства)",
+      "maskedWord": "пр_емник (тока)",
       "missingLetter": "и",
       "wordPart": "PREFIX",
       "ruleId": "PRE_PRE_PRI",
@@ -10075,7 +9932,7 @@
     {
       "id": "w_849",
       "word": " преемник",
-      "maskedWord": "пр_емник",
+      "maskedWord": "пр_емник (наследства)",
       "missingLetter": "е",
       "wordPart": "PREFIX",
       "ruleId": "PRE_PRE_PRI",
@@ -10122,8 +9979,8 @@
     },
     {
       "id": "w_853",
-      "word": "преступить (черту)",
-      "maskedWord": "пр_ступить",
+      "word": "преступить",
+      "maskedWord": "пр_ступить (закон)",
       "missingLetter": "е",
       "wordPart": "PREFIX",
       "ruleId": "PRE_PRE_PRI",
@@ -10134,7 +9991,7 @@
     },
     {
       "id": "w_854",
-      "word": " приехать",
+      "word": "приехать",
       "maskedWord": "пр_ехать",
       "missingLetter": "и",
       "wordPart": "PREFIX",
@@ -10598,18 +10455,6 @@
       "options": [
         "и",
         "ы"
-      ]
-    },
-    {
-      "id": "w_893",
-      "word": " закрыть",
-      "maskedWord": "з_крыть",
-      "missingLetter": "а",
-      "wordPart": "PREFIX",
-      "ruleId": "PRE_UNCHANGING",
-      "options": [
-        "а",
-        "о"
       ]
     },
     {
