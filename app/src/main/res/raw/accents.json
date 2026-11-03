@@ -1,1208 +1,1310 @@
 [
   {
-    "word": "аэропорты",
+    "word": "аэропОрты",
     "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В некоторых существительных ударение является неподвижным и остаётся на корне во всех падежах: аэропОрт — аэропОрты."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "банты",
+    "word": "бОроду",
     "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В некоторых существительных ударение является неподвижным и остаётся на корне: бАнт — бАнты."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "бороду",
+    "word": "бАнты",
     "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В форме винительного падежа единственного числа существительного бородА ударение падает на первый слог: бОроду."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "бухгалтеров",
+    "word": "",
+    "stressedIndex": -1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "бухгАлтеров",
     "stressedIndex": 4,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В форме родительного падежа множественного числа существительного бухгАлтер ударение сохраняется на основе: бухгАлтеров."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "вероисповедание",
+    "word": "",
+    "stressedIndex": -1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "вероисповЕдание",
     "stressedIndex": 9,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Образовано от глагола вероисповЕдать, ударение сохраняется на слоге -ВЕ-."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "водопровод",
-    "stressedIndex": 9,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В сложных словах со второй частью -провод при значении «приспособление для транспортировки» ударение падает на корень -ВОД."
-  },
-  {
-    "word": "газопровод",
+    "word": "водопровОд",
     "stressedIndex": 8,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В сложных словах со второй частью -провод при значении «приспособление для транспортировки» ударение падает на корень -ВОД."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "гражданство",
-    "stressedIndex": 2,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове граждАнство ударение падает на второй слог."
+    "word": "газопровОд",
+    "stressedIndex": 8,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "дефис",
+    "word": "граждАнство",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дефИс",
     "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Слово иноязычного происхождения, ударение падает на последний слог: дефИс."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "дешевизна",
+    "word": "дешевИзна",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "диспансЕр",
     "stressedIndex": 7,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове дешевизнА ударение падает на суффикс -ИЗН- и окончание."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "диспансер",
+    "word": "договорЁнность",
     "stressedIndex": 7,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Слово французского происхождения, ударение падает на последний слог: диспансЕр."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "договорённость",
-    "stressedIndex": 7,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове договорЁнность ударение всегда падает на букву Ё."
+    "word": "докумЕнт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "документ",
-    "stressedIndex": 6,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Слово иноязычного происхождения, ударение падает на последний слог: докумЕнт."
-  },
-  {
-    "word": "досуг",
+    "word": "досУг",
     "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове досУг ударение падает на второй слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "еретик",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове еретИк ударение падает на последний слог."
-  },
-  {
-    "word": "жалюзи",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Заимствование из французского языка, ударение всегда падает на последний слог: жалюзИ."
-  },
-  {
-    "word": "значимость",
-    "stressedIndex": 2,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Образовано от прилагательного знАчимый, ударение сохраняется на первом слоге."
-  },
-  {
-    "word": "иксы",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Неподвижное ударение на основе во всех формах: Икс — Иксы."
-  },
-  {
-    "word": "каталог",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В словах, оканчивающихся на -лог, ударение падает на последний слог: каталог."
-  },
-  {
-    "word": "квартал",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Во всех значениях ударение падает на последний слог: квартАл."
-  },
-  {
-    "word": "километр",
-    "stressedIndex": 6,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В словах с мерами измерения на -метр ударение падает на последний слог: киломЕтр."
-  },
-  {
-    "word": "конусов",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Неподвижное ударение на основе во всех формах: кОнус — кОнусов."
-  },
-  {
-    "word": "корысть",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове корЫсть ударение падает на второй слог."
-  },
-  {
-    "word": "краны",
-    "stressedIndex": 2,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Неподвижное ударение на основе: крАн — крАны."
-  },
-  {
-    "word": "кремень",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове кремЕнь ударение в косвенных падежах переходит на окончание: кремнЯ."
-  },
-  {
-    "word": "лекторов",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Неподвижное ударение на основе во всех формах: лЕктор — лЕкторов."
-  },
-  {
-    "word": "локтя",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В форме единственного числа ударение падает на основу (лОктя), во множественном — на окончание (локтЕй)."
-  },
-  {
-    "word": "лыжня",
+    "word": "еретИк",
     "stressedIndex": 4,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове лыжнЯ ударение падает на окончание."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "местностей",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В форме родительного падежа множественного числа ударение сохраняется на основе: мЕстностей."
+    "word": "жалюзИ",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "намерение",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове намЕрение ударение падает на второй слог."
+    "word": "знАчимость",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "нарост",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове нар Ост ударение падает на второй слог."
-  },
-  {
-    "word": "недруг",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Приставка НЕ- в существительных со значением отрицания берет ударение на себя: нЕдруг."
-  },
-  {
-    "word": "недуг",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове недУг ударение падает на второй слог."
-  },
-  {
-    "word": "некролог",
-    "stressedIndex": 6,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В словах на -лог ударение падает на последний слог: некролОг."
-  },
-  {
-    "word": "ненависть",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове нЕнависть ударение падает на первый слог."
-  },
-  {
-    "word": "нефтепровод",
-    "stressedIndex": 10,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В сложных словах на -провод при значении транспортировки ударение падает на корень -ВОД."
-  },
-  {
-    "word": "новостей",
-    "stressedIndex": 6,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В форме родительного падежа множественного числа ударение падает на окончание: новостЕй."
-  },
-  {
-    "word": "ногтя",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В единственном числе ударение падает на основу (нОгтя), во множественном — на окончание (ногтЕй)."
-  },
-  {
-    "word": "отзыв",
+    "word": "Иксы",
     "stressedIndex": 0,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В значении «рецензия, отклик» ударение падает на приставку: Отзыв (о книге)."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "отрочество",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове От рочество ударение падает на первый слог."
-  },
-  {
-    "word": "партер",
-    "stressedIndex": 4,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Заимствование из французского языка, ударение падает на последний слог: партЕр."
-  },
-  {
-    "word": "портфель",
+    "word": "каталОг",
     "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове портфЕль ударение падает на второй слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "поручни",
+    "word": "квартАл",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "киломЕтр",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "кОнусов",
     "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове пОручни ударение падает на первый слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "приданое",
+    "word": "корЫсть",
     "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове прид Аное ударение падает на второй слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "призыв",
-    "stressedIndex": 4,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В отглагольном существительном призЫв ударение падает на второй слог."
-  },
-  {
-    "word": "свекла",
+    "word": "крАны",
     "stressedIndex": 2,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове свЁкла ударение всегда падает на букву Ё."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "сироты",
+    "word": "кремЕнь",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "кремнЯ",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "лЕкторов",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "лОктя",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "лыжнЯ",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "мЕстностей",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "намЕрение",
     "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В именительном падеже множественного числа сиротА имеет ударение сир Оты."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "созыв",
+    "word": "нЕдруг",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "недУг",
     "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В отглагольном существительном созЫв ударение падает на второй слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "сосредоточение",
+    "word": "некролОг",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нЕнависть",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нефтепровОд",
     "stressedIndex": 9,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Сохраняет место ударения исходного глагола сосредоточить: сосредоточЕние."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "средства",
-    "stressedIndex": 2,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Во всех формах единственного и множественного числа ударение остаётся на основе: срЕдства."
+    "word": "новостЕй",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "статуя",
-    "stressedIndex": 2,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове стАтуя ударение падает на первый слог."
-  },
-  {
-    "word": "столяр",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Названия профессий на -яр имеют ударение на окончании: столЯр."
-  },
-  {
-    "word": "таможня",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове тамОжня ударение падает на второй слог."
-  },
-  {
-    "word": "торты",
+    "word": "нОгтя",
     "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Неподвижное ударение на основе: тОрт — тОрты."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "туфля",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Во всех формах ударение остаётся на корне: тУфля."
+    "word": "Отзыв (о книге)",
+    "stressedIndex": 0,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "цемент",
+    "word": "отзЫв (посла из страны)",
     "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове цемЕнт ударение падает на второй слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "центнер",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове цЕнтнер ударение падает на первый слог."
+    "word": "Отрочество",
+    "stressedIndex": 0,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "цепочка",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове цепОчка ударение падает на второй слог."
-  },
-  {
-    "word": "шарфы",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Неподвижное ударение на основе: шАрф — шАрфы."
-  },
-  {
-    "word": "шофёр",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "В слове шофЁр ударение всегда падает на букву Ё."
-  },
-  {
-    "word": "эксперт",
-    "stressedIndex": 5,
-    "ruleTitle": "Имена существительные",
-    "ruleExplanation": "Слово французского происхождения, ударение падает на последний слог: экспЕрт."
-  },
-  {
-    "word": "верна",
+    "word": "партЕр",
     "stressedIndex": 4,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В краткой форме женского рода ударение переходит на окончание: вернА."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "значимый",
+    "word": "портфЕль",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "придАное",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "призЫв",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "свЁкла",
     "stressedIndex": 2,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В прилагательном знАчимый ударение падает на первый слог."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "красивее",
+    "word": "сирОты",
     "stressedIndex": 3,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В сравнительной степени ударение сохраняется на основе полной формы (красИвый): красИвее."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "красивейший",
+    "word": "созЫв",
     "stressedIndex": 3,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В превосходной степени ударение сохраняется на основе полной формы (красИвый): красИвейший."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "кухонный",
-    "stressedIndex": 1,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "Ударение сохраняется на том же слоге, что и в исходном существительном кУхня: кУхонный."
-  },
-  {
-    "word": "ловка",
-    "stressedIndex": 4,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В краткой форме женского рода ударение переходит на окончание: ловкА."
-  },
-  {
-    "word": "мозаичный",
-    "stressedIndex": 4,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В слове мозаИчный ударение падает на букву И."
-  },
-  {
-    "word": "оптовый",
-    "stressedIndex": 3,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "В слове оптОвый ударение падает на суффикс -ОВ-."
-  },
-  {
-    "word": "прозорливый",
-    "stressedIndex": 7,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "Ударение падает на суффикс -ИВ-: прозорлИвый (и в краткой форме женского рода: прозорлИва)."
-  },
-  {
-    "word": "сливовый",
-    "stressedIndex": 2,
-    "ruleTitle": "Имена прилагательные",
-    "ruleExplanation": "Ударение сохраняется на слоге исходного существительного слИва: слИвовый."
-  },
-  {
-    "word": "брала",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: бралА."
-  },
-  {
-    "word": "бралась",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В возвратных глаголах прошедшего времени женского рода ударение падает на окончание: бралАсь."
-  },
-  {
-    "word": "вручит",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на окончание: вручИт."
-  },
-  {
-    "word": "взяла",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение переходит на окончание: взялА."
-  },
-  {
-    "word": "взялась",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В возвратных глаголах прошедшего времени женского рода ударение падает на окончание: взялАсь."
-  },
-  {
-    "word": "влилась",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: влилАсь."
-  },
-  {
-    "word": "ворвалась",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: ворвалАсь."
-  },
-  {
-    "word": "восприняла",
-    "stressedIndex": 9,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: воспринялА."
-  },
-  {
-    "word": "воссоздала",
-    "stressedIndex": 9,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: воссоздалА."
-  },
-  {
-    "word": "гнала",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: гналА."
-  },
-  {
-    "word": "гналася",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: гналАсь."
-  },
-  {
-    "word": "добрала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: добралА."
-  },
-  {
-    "word": "добралась",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: добралАсь."
-  },
-  {
-    "word": "дождалась",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: дождалАсь."
-  },
-  {
-    "word": "дозвонится",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: дозвонИтся."
-  },
-  {
-    "word": "дозировать",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголе дозИровать ударение падает на корень -ДОЗ-."
-  },
-  {
-    "word": "ждала",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: ждалА."
-  },
-  {
-    "word": "жилось",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме среднего рода прошедшего времени возвратного глагола ударение падает на окончание: жилОсь."
-  },
-  {
-    "word": "закупорить",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Во всех формах этого глагола ударение остаётся на слоге -КУ-: закУпорить."
-  },
-  {
-    "word": "заняла",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: занялА (в мужском роде — зАнял)."
-  },
-  {
-    "word": "заперла",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: заперлА."
-  },
-  {
-    "word": "запломбировать",
-    "stressedIndex": 12,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В отглагольных терминах на -ИРОВАТЬ ударение падает на -ОВАТЬ: запломбировАть."
-  },
-  {
-    "word": "защемит",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: защемИт."
-  },
-  {
-    "word": "звала",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: звалА."
-  },
-  {
-    "word": "звонит",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: звонИт."
-  },
-  {
-    "word": "кашлянуть",
-    "stressedIndex": 1,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Ударение сохраняется на том же слоге, что и в инфинитиве кАшлять: кАшлянуть."
-  },
-  {
-    "word": "клала",
-    "stressedIndex": 2,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "У глагола клАсть ударение в прошедшем времени женского рода остаётся на основе: клАла."
-  },
-  {
-    "word": "клеить",
-    "stressedIndex": 2,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголе клЕить ударение падает на первый слог."
-  },
-  {
-    "word": "кралась",
-    "stressedIndex": 2,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "У глагола крАсться ударение в прошедшем времени женского рода остаётся на основе: крАлась."
-  },
-  {
-    "word": "кровоточить",
-    "stressedIndex": 9,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ ударение падает на окончание и инфинитивный суффикс: кровоточИть (кровоточИт)."
-  },
-  {
-    "word": "лгала",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: лгалА."
-  },
-  {
-    "word": "лила",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: лилА."
-  },
-  {
-    "word": "лилась",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: лилАсь."
-  },
-  {
-    "word": "наврала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: навралА."
-  },
-  {
-    "word": "наделит",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: наделИт."
-  },
-  {
-    "word": "надорвалась",
-    "stressedIndex": 9,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: надорвалАсь."
-  },
-  {
-    "word": "назвалась",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: назвалАсь."
-  },
-  {
-    "word": "накренится",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: накренИтся."
-  },
-  {
-    "word": "налила",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: налилА."
-  },
-  {
-    "word": "нарвала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: нарвалА."
-  },
-  {
-    "word": "начала",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: началА (но нАчал, нАчали)."
-  },
-  {
-    "word": "обзвонит",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: обзвонИт."
-  },
-  {
-    "word": "облегчить",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Глагол, образованный от прилагательного лЁгкий, имеет ударение на суффиксе -ИТЬ: облегчИть (облегчИт)."
-  },
-  {
-    "word": "облилась",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: облилАсь."
-  },
-  {
-    "word": "обнялась",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В форме женского рода прошедшего времени ударение падает на окончание: обнялАсь."
-  },
-  {
-    "word": "обогнала",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: обогналА."
-  },
-  {
-    "word": "ободрала",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: ободралА."
-  },
-  {
-    "word": "ободрить",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Глагол, образованный от прилагательного бОдрый, имеет ударение на -ИТЬ: ободрИть (ободрИт)."
-  },
-  {
-    "word": "ободриться",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В возвратных глаголах на -ИТЬ ударение падает на суффикс: ободрИться (ободрИтся)."
-  },
-  {
-    "word": "обострить",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Глагол, образованный от прилагательного Острый, имеет ударение на -ИТЬ: обострИть."
-  },
-  {
-    "word": "одолжить",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на суффикс/окончание: одолжИть (одолжИт)."
-  },
-  {
-    "word": "озлобить",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Исключение из правила глаголов от прилагательных: озлОбить (ударение на корень)."
-  },
-  {
-    "word": "оклеить",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Сохраняет ударение исходного глагола клЕить: оклЕить."
-  },
-  {
-    "word": "окружит",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: окружИт."
-  },
-  {
-    "word": "опошлить",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Исключение из правил глаголов на -ИТЬ: опОшлить (ударение падает на корень)."
-  },
-  {
-    "word": "осведомиться",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Исключение из правил глаголов на -ИТЬ: освЕдомиться (освЕдомится)."
-  },
-  {
-    "word": "отбыла",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: отбылА."
-  },
-  {
-    "word": "отдала",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: отдалА."
-  },
-  {
-    "word": "откупорить",
-    "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Сохраняет ударение глагола закУпорить: откУпорить."
-  },
-  {
-    "word": "отозвала",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: отозвалА."
-  },
-  {
-    "word": "отозвалась",
+    "word": "сосредотОчение",
     "stressedIndex": 8,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: отозвалАсь."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "перезвонит",
+    "word": "срЕдства",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "стАтуя",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "столЯр",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "тамОжня",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "тОрты",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "тУфля",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "цемЕнт",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "цЕнтнер",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "цепОчка",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "шАрфы",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "шофЁр",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "экспЕрт",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "вернА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "знАчимый",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "красИвее",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "кУхонный",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ловкА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "мозаИчный",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "оптОвый",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прозорлИвый",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прозорлИва",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "слИвовый",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "бралА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "бралАсь",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "взялА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "взялАсь",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "влилАсь",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ворвалАсь",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "воспринЯть",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "воспринялА",
+    "stressedIndex": 9,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "воссоздалА",
+    "stressedIndex": 9,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "вручИт",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "гналА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "гналАсь",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "добралА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "добралАсь",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дождалАсь",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дозвонИтся",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дозИровать",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ждалА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "закУпорить",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "занЯть",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "зАнял",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "занялА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "зАняли",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "заперлА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "запломбировАть",
+    "stressedIndex": 11,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "защемИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "звалА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "звонИт",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "кАшлянуть",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "клАла",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "клЕить",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "крАлась",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "кровоточИть",
     "stressedIndex": 8,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: перезвонИт."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "перелила",
-    "stressedIndex": 7,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: перелилА."
-  },
-  {
-    "word": "плодоносить",
-    "stressedIndex": 10,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголе плодоносИть ударение падает на суффикс инфинитива -ИТЬ."
-  },
-  {
-    "word": "пломбировать",
-    "stressedIndex": 10,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИРОВАТЬ ударение падает на -ОВАТЬ: пломбировАть."
-  },
-  {
-    "word": "повторит",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: повторИт."
-  },
-  {
-    "word": "позвала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: позвалА."
-  },
-  {
-    "word": "позвонит",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: позвонИт."
-  },
-  {
-    "word": "полила",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: полилА."
-  },
-  {
-    "word": "положил",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени глагола положИть ударение сохраняется на основе: положИл."
-  },
-  {
-    "word": "поняла",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: понялА (но пОнял)."
-  },
-  {
-    "word": "послала",
+    "word": "лгалА",
     "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "У глагола послАть ударение в прошедшем времени женского рода остаётся на основе: послАла."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "прибыла",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: прибылА (но прИбыл)."
-  },
-  {
-    "word": "приняла",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: принялА (но прИнял)."
-  },
-  {
-    "word": "рвала",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: рвалА."
-  },
-  {
-    "word": "сверлит",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: сверлИт."
-  },
-  {
-    "word": "сняла",
-    "stressedIndex": 4,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: снялА."
-  },
-  {
-    "word": "соврала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: совралА."
-  },
-  {
-    "word": "создала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: создалА."
-  },
-  {
-    "word": "сорвала",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение падает на окончание: сорвалА."
-  },
-  {
-    "word": "сорит",
+    "word": "лилА",
     "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: сорИт."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "убрала",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В прошедшем времени женского рода ударение переходит на окончание: убралА."
-  },
-  {
-    "word": "углубить",
-    "stressedIndex": 6,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "Глагол, образованный от прилагательного глубОкий, имеет ударение на суффиксе -ИТЬ: углубИть."
-  },
-  {
-    "word": "укрепит",
-    "stressedIndex": 5,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: укрепИт."
-  },
-  {
-    "word": "черпать",
-    "stressedIndex": 1,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголе чЕрпать и производных (исчЕрпать) ударение всегда падает на корень."
-  },
-  {
-    "word": "щемит",
+    "word": "лилАсь",
     "stressedIndex": 3,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголах на -ИТЬ при спряжении ударение падает на личное окончание: щемИт."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "щёлкать",
-    "stressedIndex": 1,
-    "ruleTitle": "Глаголы",
-    "ruleExplanation": "В глаголе щЁлкать ударение всегда падает на букву Ё."
+    "word": "наделИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "довезённый",
-    "stressedIndex": 6,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полных страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: довезЁнный."
-  },
-  {
-    "word": "загнутый",
-    "stressedIndex": 1,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В причастиях с суффиксом -Т-, образованных от глаголов на -гнуть, ударение падает на приставку: зАгнутый."
-  },
-  {
-    "word": "занятый",
-    "stressedIndex": 1,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полной форме причастия ударение падает на приставку: зАнятый (но в краткой ж.р.: занятА)."
-  },
-  {
-    "word": "запертый",
-    "stressedIndex": 1,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полной форме причастия ударение падает на приставку: зАпертый (но в краткой ж.р.: запертА)."
-  },
-  {
-    "word": "заселённый",
-    "stressedIndex": 6,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полных страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: заселЁнный."
-  },
-  {
-    "word": "кормящий",
-    "stressedIndex": 4,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В действительных причастиях настоящего времени с суффиксом -ЯЩ- ударение падает на суффикс: корм Ящий."
-  },
-  {
-    "word": "кровоточащий",
+    "word": "надорвалАсь",
     "stressedIndex": 8,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В причастиях, образованных от глаголов на -ИТЬ (кровоточИть), ударение падает на суффикс: кровоточАщий."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "наживший",
-    "stressedIndex": 4,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В деепричастиях и причастиях с суффиксом -ВШ- ударение падает на гласную перед суффиксом: нажИвший."
-  },
-  {
-    "word": "наливший",
-    "stressedIndex": 3,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В действительных причастиях прошедшего времени ударение падает на гласную перед -ВШ-: налИвший."
-  },
-  {
-    "word": "нанявшийся",
-    "stressedIndex": 3,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В действительных причастиях с суффиксом -ВШ- ударение падает на гласную перед суффиксом: нанЯвшийся."
-  },
-  {
-    "word": "начавший",
-    "stressedIndex": 3,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В действительных причастиях с суффиксом -ВШ- ударение падает на гласную перед суффиксом: начАвший."
-  },
-  {
-    "word": "начатый",
-    "stressedIndex": 1,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полной форме страдательного причастия ударение падает на приставку: нАчатый."
-  },
-  {
-    "word": "низведённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полных страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: низведЁнный."
-  },
-  {
-    "word": "облегчённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: облегчЁнный."
-  },
-  {
-    "word": "ободрённый",
+    "word": "назвалАсь",
     "stressedIndex": 6,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: ободрЁнный."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "обострённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: обострЁнный."
-  },
-  {
-    "word": "отключённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: отключЁнный."
-  },
-  {
-    "word": "повторённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: повторЁнный."
-  },
-  {
-    "word": "поделённый",
+    "word": "накренИтся",
     "stressedIndex": 6,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: поделЁнный."
+    "ruleTitle": "",
+    "ruleExplanation": ""
   },
   {
-    "word": "понявший",
-    "stressedIndex": 3,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В действительных причастиях с суффиксом -ВШ- ударение падает на гласную перед суффиксом: пон Явший."
-  },
-  {
-    "word": "принятый",
-    "stressedIndex": 1,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В полной форме причастия ударение падает на приставку: прИнятый (но в краткой ж.р.: принятА)."
-  },
-  {
-    "word": "приручённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: приручЁнный."
-  },
-  {
-    "word": "проживший",
-    "stressedIndex": 4,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В действительных причастиях с суффиксом -ВШ- ударение падает на гласную перед суффиксом: прожИвший."
-  },
-  {
-    "word": "снятая",
-    "stressedIndex": 4,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В краткой форме женского рода страдательных причастий ударение падает на окончание: снятА."
-  },
-  {
-    "word": "согнутый",
-    "stressedIndex": 1,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В причастиях с суффиксом -Т-, образованных от глаголов на -гнуть, ударение падает на приставку: сОгнутый."
-  },
-  {
-    "word": "углублённый",
-    "stressedIndex": 7,
-    "ruleTitle": "Причастия",
-    "ruleExplanation": "В страдательных причастиях с суффиксом -ЁНН- ударение всегда падает на Ё: углублЁнный."
-  },
-  {
-    "word": "закупорив",
-    "stressedIndex": 3,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "Сохраняет ударение инфинитива закУпорить: закУпорив."
-  },
-  {
-    "word": "начав",
-    "stressedIndex": 3,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксом -В- ударение падает на гласную букву перед суффиксом: начАв."
-  },
-  {
-    "word": "начавшись",
-    "stressedIndex": 3,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксами -В-, -ВШИ- ударение падает на гласную букву перед суффиксом: начАвшись."
-  },
-  {
-    "word": "отдав",
-    "stressedIndex": 3,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксом -В- ударение падает на гласную перед суффиксом: отдАв."
-  },
-  {
-    "word": "подняв",
-    "stressedIndex": 4,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксом -В- ударение падает на гласную перед суффиксом: поднЯв."
-  },
-  {
-    "word": "поняв",
-    "stressedIndex": 3,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксом -В- ударение падает на гласную перед суффиксом: понЯв."
-  },
-  {
-    "word": "прибыв",
-    "stressedIndex": 4,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксом -В- ударение падает на гласную перед суффиксом: прибЫв."
-  },
-  {
-    "word": "создав",
-    "stressedIndex": 4,
-    "ruleTitle": "Деепричастия",
-    "ruleExplanation": "В деепричастиях с суффиксом -В- ударение падает на гласную перед суффиксом: создАв."
-  },
-  {
-    "word": "вовремя",
-    "stressedIndex": 1,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречии вОвремя ударение падает на первый слог."
-  },
-  {
-    "word": "доверху",
-    "stressedIndex": 1,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречиях с приставкой ДО- ударение падает на приставку: дОверху."
-  },
-  {
-    "word": "донельзя",
-    "stressedIndex": 3,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "Исключение из наречий с приставкой ДО-: донЕльзя (ударение на второй слог)."
-  },
-  {
-    "word": "донизу",
-    "stressedIndex": 1,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречиях с приставкой ДО- ударение падает на приставку: дОнизу."
-  },
-  {
-    "word": "досуха",
-    "stressedIndex": 1,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречиях с приставкой ДО- ударение падает на приставку: дОсуха."
-  },
-  {
-    "word": "засветло",
-    "stressedIndex": 1,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречиях с приставкой ЗА- ударение падает на приставку: зАсветло."
-  },
-  {
-    "word": "затемно",
-    "stressedIndex": 1,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречиях с приставкой ЗА- ударение падает на приставку: зАтемно."
-  },
-  {
-    "word": "надолго",
-    "stressedIndex": 3,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречии надОлго ударение падает на второй слог."
-  },
-  {
-    "word": "ненадолго",
+    "word": "налилА",
     "stressedIndex": 5,
-    "ruleTitle": "Наречия",
-    "ruleExplanation": "В наречии ненадОлго ударение падает на слог -ДО-."
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нарвалА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "начАть",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нАчал",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "началА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нАчали",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "облегчИть",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "облегчИт",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "облилАсь",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "обнялАсь",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "обогналА",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ободралА",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ободрИть",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ободрИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ободрИться",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ободрИтся",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "обострИть",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "озлОбить",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "одолжИть",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "одолжИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "оклЕить",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "окружИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "опОшлить",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "освЕдомиться",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "освЕдомится",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "отбылА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "отдалА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "откУпорить",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "отозвалА",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "отозвалАсь",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "перезвонИт",
+    "stressedIndex": 8,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "перелилА",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "плодоносИть",
+    "stressedIndex": 8,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "пломбировАть",
+    "stressedIndex": 9,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "повторИт",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "позвалА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "позвонИт",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "полилА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "положИть",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "положИл",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "понЯть",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "понялА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "послАла",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прибЫть",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прИбыл",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прибылА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прИбыли",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "принЯть",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прИнял",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "принялА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прИняли",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "рвалА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "сверлИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "снялА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "создалА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "сорвалА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "убралА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "углубИть",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "укрепИт",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "чЕрпать",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "щемИт",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "щЁлкать",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "довезЁнный",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "зАгнутый",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "зАнятый",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "занятА",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "зАпертый",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "заселЁнный",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "заселенА",
+    "stressedIndex": 7,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "кровоточАщий",
+    "stressedIndex": 8,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нажИвший",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "налИвший",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нанЯвшийся",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "начАвший",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "нАчатый",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "низведЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "облегчЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ободрЁнный",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "обострЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "отключЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "повторЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "поделЁнный",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "понЯвший",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прИнятый",
+    "stressedIndex": 2,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "принятА",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "приручЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прожИвший",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "снятА",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "сОгнутый",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "углублЁнный",
+    "stressedIndex": 6,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "закУпорив",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "начАв",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "начАвшись",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "отдАв",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "понЯв",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "прибЫв",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "создАв",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "вОвремя",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дОверху",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дОнизу",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "дОсуха",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "зАсветло",
+    "stressedIndex": 1,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "красИвее",
+    "stressedIndex": 4,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "надОлго",
+    "stressedIndex": 3,
+    "ruleTitle": "",
+    "ruleExplanation": ""
+  },
+  {
+    "word": "ненадОлго",
+    "stressedIndex": 5,
+    "ruleTitle": "",
+    "ruleExplanation": ""
   }
 ]
