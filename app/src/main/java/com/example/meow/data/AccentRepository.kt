@@ -21,15 +21,16 @@ object AccentRepository {
             for (i in 0 until jsonArray.length()) {
                 val obj = jsonArray.getJSONObject(i)
 
+                val id = obj.getString("id")
                 val word = obj.getString("word")
                 val stressedIndex = obj.getInt("stressedIndex")
                 val ruleTitle = obj.getString("ruleTitle")
                 val ruleExplanation = obj.getString("ruleExplanation")
 
-                list.add(AccentCard(word, stressedIndex, ruleTitle, ruleExplanation))
+                list.add(AccentCard(id, word, stressedIndex, ruleTitle, ruleExplanation))
             }
 
-            accentsList = list
+            accentsList = list.shuffled()
         } catch (e: Exception) {
             e.printStackTrace()
             accentsList = emptyList()

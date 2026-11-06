@@ -19,6 +19,10 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.meow.data.WordRepository
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.buildAnnotatedString
+import androidx.compose.ui.text.withStyle
+
 
 data class WordCard(
     val word: String,
@@ -36,7 +40,7 @@ fun CardScreen(
 ) {
     val context = LocalContext.current
 
-    // Работа с сохраненным рекордом через SharedPreferences
+    // Working with a saved record
     val sharedPreferences = remember {
         context.getSharedPreferences("ege_prefs", Context.MODE_PRIVATE)
     }
@@ -55,7 +59,7 @@ fun CardScreen(
     var isCorrect by remember { mutableStateOf(false) }
     var showRule by remember { mutableStateOf(false) }
 
-    // Счетчики
+    // Counters
     var currentStreak by remember { mutableIntStateOf(0) }
 
     val currentCard = if (wordsList.isNotEmpty()) wordsList[currentIndex] else null
@@ -117,7 +121,7 @@ fun CardScreen(
                 }
             }
 
-            // Основная карточка
+            // Main Card
             Column(
                 horizontalAlignment = Alignment.CenterHorizontally,
                 modifier = Modifier.fillMaxWidth()
@@ -142,7 +146,7 @@ fun CardScreen(
                         )
                         Spacer(modifier = Modifier.height(24.dp))
 
-                        // Вычисляем общую длину слова для адаптивного размера шрифта, чтобы длинные слова влезали
+
                         val wordLength = currentCard.maskedWord.length
                         val adaptiveFontSize = when {
                             wordLength > 17 -> 23.sp
@@ -279,7 +283,29 @@ fun CardScreen(
                                 ) {
                                     Text(text = currentCard.ruleTitle, fontWeight = FontWeight.Bold, fontSize = 14.sp)
                                     Spacer(modifier = Modifier.height(4.dp))
-                                    Text(text = currentCard.ruleExplanation, fontSize = 13.sp, color = Color.DarkGray)
+
+                                    val annotatedExplanation = buildAnnotatedString {
+                                        val index =
+                                            currentCard.ruleExplanation.indexOf("исключен", ignoreCase = true)
+                                        if (index != -1) {
+                                            append(currentCard.ruleExplanation.substring(0, index))
+                                            withStyle(
+                                                style = SpanStyle(
+                                                    fontWeight = FontWeight.Bold,
+                                                    color = Color.Black
+                                                )
+                                            ) {
+                                                append(currentCard.ruleExplanation.substring(index))
+                                            }
+                                        } else {
+                                            append(currentCard.ruleExplanation)
+                                        }
+                                    }
+                                    Text(
+                                        text = annotatedExplanation,
+                                        fontSize = 13.sp,
+                                        color = Color.DarkGray
+                                    )
                                 }
                             }
                         }

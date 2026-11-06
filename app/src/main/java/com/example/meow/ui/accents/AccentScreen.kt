@@ -22,6 +22,7 @@ import androidx.compose.ui.unit.sp
 import com.example.meow.data.AccentRepository
 
 data class AccentCard(
+    val id: String,
     val word: String,
     val stressedIndex: Int,
     val ruleTitle: String,

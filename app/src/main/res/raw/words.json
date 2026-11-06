@@ -53,12 +53,12 @@
     {
       "id": "ROOT_GAR_GOR",
       "title": "Корень с чередованием -ГАР- / -ГОР-",
-      "explanation": "Под ударением пишется -ГАР-, без ударения — -ГОР- (исключения: выгарки, пригарь, изгарь)"
+      "explanation": "Под ударением пишется -ГАР-, без ударения — -ГОР- (исключения: выгАрки, пригАрь, изгАрь)"
     },
     {
       "id": "ROOT_ZAR_ZOR",
       "title": "Корень с чередованием -ЗОР- / -ЗАР-",
-      "explanation": "Под ударением пишется гласная в соответствии с произношением (-ЗОР- или -ЗАР-), без ударения пишется -ЗАР- (исключение: заревать)"
+      "explanation": "Под ударением пишется гласная, которая слышится, без ударения — -ЗАР- (исключение: зАревать)"
     },
     {
       "id": "ROOT_KLAN_KLON",
@@ -68,17 +68,17 @@
     {
       "id": "ROOT_TVAR_TVOR",
       "title": "Корень с чередованием -ТВАР- / -ТВОР-",
-      "explanation": "Под ударением пишется -ТВАР-, без ударения — -ТВОР- (исключение: утварь)"
+      "explanation": "Под ударением пишется -ТВАР-, без ударения — -ТВОР- (исключение: утвАрь)"
     },
     {
       "id": "ROOT_SKAK_SKOCH",
       "title": "Корень с чередованием -СКАК- / -СКОЧ-",
-      "explanation": "Перед К пишется -СКАК-, перед Ч пишется -СКОЧ- (исключения: скачок, скачу, скачи)"
+      "explanation": "Перед К пишется -СКАК-, перед Ч пишется -СКОЧ- (исключения: скАчок, скАчу, скАчи)"
     },
     {
       "id": "ROOT_RAST_RASH_ROS",
       "title": "Корень с чередованием -РАСТ- / -РАЩ- / -РОС-",
-      "explanation": "Перед СТ и Щ пишется А (-РАСТ-, -РАЩ-), перед С пишется О (-РОС-) (исключения: росток, ростовщик, отрасль, Ростов, Ростислав)"
+      "explanation": "Перед СТ и Щ пишется А (-РАСТ-, -РАЩ-), перед С пишется О (-РОС-) (исключения: РОстислав из города РОстов по профессии рОстовщик,а на окне у него стоит рОсток)"
     },
     {
       "id": "ROOT_LAG_LOZH",
@@ -3756,20 +3756,8 @@
       ]
     },
     {
-      "id": "w_302",
-      "word": " игнорировать",
-      "maskedWord": "игнор_ровать",
-      "missingLetter": "и",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_VOC",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
       "id": "w_303",
-      "word": " идеал",
+      "word": "идеал",
       "maskedWord": "ид_ал",
       "missingLetter": "е",
       "wordPart": "ROOT",
@@ -4680,18 +4668,6 @@
       ]
     },
     {
-      "id": "w_380",
-      "word": " полемика",
-      "maskedWord": "пол_мика",
-      "missingLetter": "е",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_VOC",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
       "id": "w_381",
       "word": " полемичный",
       "maskedWord": "п_лемичный",
@@ -4705,7 +4681,7 @@
     },
     {
       "id": "w_382",
-      "word": " полировать",
+      "word": "полировать",
       "maskedWord": "п_лировать",
       "missingLetter": "о",
       "wordPart": "ROOT",
@@ -5163,25 +5139,13 @@
     {
       "id": "w_421",
       "word": " фигурировать",
-      "maskedWord": "ф_игурировать",
+      "maskedWord": "ф_гурировать",
       "missingLetter": "и",
       "wordPart": "ROOT",
       "ruleId": "ROOT_VOC",
       "options": [
         "е",
         "и"
-      ]
-    },
-    {
-      "id": "w_422",
-      "word": " фигурировать",
-      "maskedWord": "фиг_рировать",
-      "missingLetter": "у",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_VOC",
-      "options": [
-        "у",
-        "ю"
       ]
     },
     {
@@ -6674,8 +6638,8 @@
     },
     {
       "id": "w_551",
-      "word": " перепираться",
-      "maskedWord": "переп_раться",
+      "word": "перепираться",
+      "maskedWord": "преп_раться",
       "missingLetter": "и",
       "wordPart": "ROOT",
       "ruleId": "ROOT_PER_PIR",
@@ -6686,7 +6650,7 @@
     },
     {
       "id": "w_552",
-      "word": " подпирать",
+      "word": "подпирать",
       "maskedWord": "подп_рать",
       "missingLetter": "и",
       "wordPart": "ROOT",
@@ -6980,7 +6944,7 @@
       "wordPart": "ROOT",
       "ruleId": "ROOT_ZHIG_ZHEG",
       "options": [
-        "ё",
+        "е",
         "о"
       ]
     },
@@ -7420,18 +7384,6 @@
       "id": "w_614",
       "word": " блеснувший",
       "maskedWord": "бл_снувший",
-      "missingLetter": "е",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_BLEST_BLIST",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_616",
-      "word": " поблескивать",
-      "maskedWord": "побл_скивать",
       "missingLetter": "е",
       "wordPart": "ROOT",
       "ruleId": "ROOT_BLEST_BLIST",
@@ -7900,7 +7852,7 @@
       "id": "w_658",
       "word": " догорать",
       "maskedWord": "дог_рать",
-      "missingLetter": "а",
+      "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_GAR_GOR",
       "options": [
@@ -7923,7 +7875,7 @@
     {
       "id": "w_661",
       "word": "заря",
-      "maskedWord": "з_ри",
+      "maskedWord": "з_ря",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_ZAR_ZOR",
@@ -8055,7 +8007,7 @@
     {
       "id": "w_673",
       "word": " подзарядить",
-      "maskedWord": "подзар_дить",
+      "maskedWord": "подз_рядить",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_ZAR_ZOR",
@@ -8125,18 +8077,6 @@
       ]
     },
     {
-      "id": "w_679",
-      "word": " заревой",
-      "maskedWord": "зар_вой",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_ZAR_ZOR",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_680",
       "word": " кланяться",
       "maskedWord": "кл_няться",
@@ -8175,7 +8115,7 @@
     {
       "id": "w_683",
       "word": " поклонение",
-      "maskedWord": "поклон_ние",
+      "maskedWord": "покл_нение",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_KLAN_KLON",
@@ -8833,18 +8773,6 @@
       ]
     },
     {
-      "id": "w_751",
-      "word": " подращивать",
-      "maskedWord": "подр_щивать",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_RAST_RASH_ROS",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_753",
       "word": " вырос",
       "maskedWord": "выр_с",
@@ -9004,18 +8932,6 @@
       "id": "w_766",
       "word": " разлагать",
       "maskedWord": "разл_гать",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_LAG_LOZH",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
-      "id": "w_767",
-      "word": " улаг",
-      "maskedWord": "ул_гать",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_LAG_LOZH",
@@ -9446,8 +9362,8 @@
     },
     {
       "id": "w_803",
-      "word": "равный (по званию)",
-      "maskedWord": "р_вный",
+      "word": "равный",
+      "maskedWord": "р_вный (по званию)",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_RAVN_ROVN",
@@ -9530,8 +9446,8 @@
     },
     {
       "id": "w_811",
-      "word": "ровный (газон)",
-      "maskedWord": "р_вный",
+      "word": "ровный",
+      "maskedWord": "р_вный (газон)",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_RAVN_ROVN",
@@ -10278,18 +10194,6 @@
       ]
     },
     {
-      "id": "w_878",
-      "word": " подыматься",
-      "maskedWord": "под_маться",
-      "missingLetter": "ы",
-      "wordPart": "PREFIX",
-      "ruleId": "PRE_I_Y",
-      "options": [
-        "и",
-        "ы"
-      ]
-    },
-    {
       "id": "w_879",
       "word": " разыскать",
       "maskedWord": "раз_скать",
@@ -10884,7 +10788,7 @@
       "word": "заведовать",
       "maskedWord": "завед_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10897,7 +10801,7 @@
       "word": "исследовать",
       "maskedWord": "исслед_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10910,7 +10814,7 @@
       "word": "воевать",
       "maskedWord": "во_вать",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10923,7 +10827,7 @@
       "word": "ночевать",
       "maskedWord": "ноч_вать",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10934,9 +10838,9 @@
     {
       "id": "w_933",
       "word": "пробовать",
-      "maskedWord": "проб_вать",
+      "maskedWord": "проб_вать (на вкус)",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10949,7 +10853,7 @@
       "word": "командовать",
       "maskedWord": "команд_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10962,7 +10866,7 @@
       "word": "беседовать",
       "maskedWord": "бесед_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10975,7 +10879,7 @@
       "word": "адресовать",
       "maskedWord": "адрес_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -10986,9 +10890,9 @@
     {
       "id": "w_937",
       "word": "использовать",
-      "maskedWord": "использова_ть",
+      "maskedWord": "использ_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11001,7 +10905,7 @@
       "word": "танцевать",
       "maskedWord": "танц_вать",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11014,7 +10918,7 @@
       "word": "участвовать",
       "maskedWord": "участв_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11027,7 +10931,7 @@
       "word": "проповедовать",
       "maskedWord": "проповед_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11040,7 +10944,7 @@
       "word": "обрадовать",
       "maskedWord": "обрад_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11053,20 +10957,7 @@
       "word": "раскритиковать",
       "maskedWord": "раскритиков_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
-      "ruleId": "SUF_OVA_EVA",
-      "options": [
-        "е",
-        "о",
-        "ы"
-      ]
-    },
-    {
-      "id": "w_943",
-      "word": "гордовать",
-      "maskedWord": "гордов_вать",
-      "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11079,7 +10970,7 @@
       "word": "гастролировать",
       "maskedWord": "гастролир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11092,7 +10983,7 @@
       "word": "гармонировать",
       "maskedWord": "гармонир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11105,7 +10996,7 @@
       "word": "лакировать",
       "maskedWord": "лакир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11118,7 +11009,7 @@
       "word": "маскировать",
       "maskedWord": "маскир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11131,7 +11022,7 @@
       "word": "публиковать",
       "maskedWord": "публиков_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11144,7 +11035,7 @@
       "word": "рекомендовать",
       "maskedWord": "рекоменд_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11157,7 +11048,7 @@
       "word": "тренировать",
       "maskedWord": "тренир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11170,7 +11061,7 @@
       "word": "чувствовать",
       "maskedWord": "чувств_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11183,7 +11074,7 @@
       "word": "колонизировать",
       "maskedWord": "колонизир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11196,7 +11087,7 @@
       "word": "экспериментировать",
       "maskedWord": "экспериментир_вать",
       "missingLetter": "о",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_OVA_EVA",
       "options": [
         "е",
@@ -11207,9 +11098,9 @@
     {
       "id": "w_954",
       "word": "рассматривать",
-      "maskedWord": "рассмотрив_ть",
+      "maskedWord": "рассмотр_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11220,9 +11111,9 @@
     {
       "id": "w_955",
       "word": "подсчитывать",
-      "maskedWord": "подсчитыв_ть",
+      "maskedWord": "подсчит_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11233,9 +11124,9 @@
     {
       "id": "w_956",
       "word": "опаздывать",
-      "maskedWord": "опаздыв_ть",
+      "maskedWord": "опазд_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11246,9 +11137,9 @@
     {
       "id": "w_957",
       "word": "рассказывать",
-      "maskedWord": "рассказыв_ть",
+      "maskedWord": "рассказ_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11259,9 +11150,9 @@
     {
       "id": "w_958",
       "word": "задерживать",
-      "maskedWord": "задержив_ть",
+      "maskedWord": "задерж_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11272,9 +11163,9 @@
     {
       "id": "w_959",
       "word": "размахивать",
-      "maskedWord": "размахив_ть",
+      "maskedWord": "размах_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11285,9 +11176,9 @@
     {
       "id": "w_960",
       "word": "успокаивать",
-      "maskedWord": "успокаив_ть",
+      "maskedWord": "успока_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11298,9 +11189,9 @@
     {
       "id": "w_961",
       "word": "переписывать",
-      "maskedWord": "переписыв_ть",
+      "maskedWord": "перепис_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_YVA_IVA",
       "options": [
         "е",
@@ -11311,9 +11202,9 @@
     {
       "id": "w_962",
       "word": "поддерживать",
-      "maskedWord": "поддержив_ть",
+      "maskedWord": "поддерж_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11324,9 +11215,9 @@
     {
       "id": "w_963",
       "word": "настаивать",
-      "maskedWord": "настаив_ть",
+      "maskedWord": "наста_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11337,9 +11228,9 @@
     {
       "id": "w_964",
       "word": "оговаривать",
-      "maskedWord": "оговарив_ть",
+      "maskedWord": "оговар_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11350,9 +11241,9 @@
     {
       "id": "w_965",
       "word": "расккладывать",
-      "maskedWord": "расккладыв_ть",
+      "maskedWord": "раскклад_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11363,9 +11254,9 @@
     {
       "id": "w_966",
       "word": "выигрывать",
-      "maskedWord": "выигрыв_ть",
+      "maskedWord": "выигр_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11376,9 +11267,9 @@
     {
       "id": "w_967",
       "word": "завоёвывать",
-      "maskedWord": "завоёвыв_ть",
+      "maskedWord": "завоёв_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11389,9 +11280,9 @@
     {
       "id": "w_968",
       "word": "отыскивать",
-      "maskedWord": "отыскив_ть",
+      "maskedWord": "отыск_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11402,9 +11293,9 @@
     {
       "id": "w_969",
       "word": "приказывать",
-      "maskedWord": "приказывав_ть",
+      "maskedWord": "приказ_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11415,9 +11306,9 @@
     {
       "id": "w_970",
       "word": "осваивать",
-      "maskedWord": "осваив_ть",
+      "maskedWord": "осва_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11430,7 +11321,7 @@
       "word": "заслуживать",
       "maskedWord": "заслуж_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11441,9 +11332,9 @@
     {
       "id": "w_972",
       "word": "расклеивать",
-      "maskedWord": "расклеив_ть",
+      "maskedWord": "раскле_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11454,9 +11345,9 @@
     {
       "id": "w_973",
       "word": "рассчитывать",
-      "maskedWord": "рассчитыв_ть",
+      "maskedWord": "рассчит_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11467,9 +11358,9 @@
     {
       "id": "w_974",
       "word": "залечивать",
-      "maskedWord": "залечив_ть",
+      "maskedWord": "залеч_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11480,9 +11371,9 @@
     {
       "id": "w_975",
       "word": "высчитывать",
-      "maskedWord": "высчитыв_ть",
+      "maskedWord": "высчит_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11493,9 +11384,9 @@
     {
       "id": "w_976",
       "word": "подчёркивать",
-      "maskedWord": "подчёркив_ть",
+      "maskedWord": "подчёрк_вать",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11506,9 +11397,9 @@
     {
       "id": "w_977",
       "word": "разведывать",
-      "maskedWord": "разведыв_ть",
+      "maskedWord": "развед_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11519,9 +11410,9 @@
     {
       "id": "w_978",
       "word": "привязывать",
-      "maskedWord": "привязыв_ть",
+      "maskedWord": "привяз_вать",
       "missingLetter": "ы",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "PRE_I_Y",
       "options": [
         "е",
@@ -11536,7 +11427,7 @@
       "word": "ключик",
       "maskedWord": "ключ_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11548,7 +11439,7 @@
       "word": "мячик",
       "maskedWord": "мяч_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11560,7 +11451,7 @@
       "word": "домик",
       "maskedWord": "дом_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11572,7 +11463,7 @@
       "word": "котик",
       "maskedWord": "кот_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11584,7 +11475,7 @@
       "word": "стульчик",
       "maskedWord": "стульч_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11596,7 +11487,7 @@
       "word": "карманчик",
       "maskedWord": "карманч_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11608,7 +11499,7 @@
       "word": "пальчик",
       "maskedWord": "пальч_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11620,7 +11511,7 @@
       "word": "шалашик",
       "maskedWord": "шалаш_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11632,7 +11523,7 @@
       "word": "огурчик",
       "maskedWord": "огурч_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11644,7 +11535,7 @@
       "word": "фонарик",
       "maskedWord": "фонар_к",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11656,7 +11547,7 @@
       "word": "замочек",
       "maskedWord": "замоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11668,7 +11559,7 @@
       "word": "сыночек",
       "maskedWord": "сыноч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11680,7 +11571,7 @@
       "word": "платочек",
       "maskedWord": "платоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11692,7 +11583,7 @@
       "word": "орешек",
       "maskedWord": "ореш_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11704,7 +11595,7 @@
       "word": "кусочек",
       "maskedWord": "кусоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11716,7 +11607,7 @@
       "word": "мешочек",
       "maskedWord": "мешоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11728,7 +11619,7 @@
       "word": "горшочек",
       "maskedWord": "горшоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11740,7 +11631,7 @@
       "word": "звоночек",
       "maskedWord": "звоноч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11752,7 +11643,7 @@
       "word": "цветочек",
       "maskedWord": "цветоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11764,7 +11655,7 @@
       "word": "листочек",
       "maskedWord": "листоч_к",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EK_IK",
       "options": [
         "е",
@@ -11776,7 +11667,7 @@
       "word": "листочек",
       "maskedWord": "брат_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11788,7 +11679,7 @@
       "word": "красавец",
       "maskedWord": "красав_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11800,7 +11691,7 @@
       "word": "хитрец",
       "maskedWord": "хитр_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11812,19 +11703,7 @@
       "word": "мудрец",
       "maskedWord": "мудр_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
-      "ruleId": "SUF_EC_IC",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1003",
-      "word": "гордец",
-      "maskedWord": "горд_ц",
-      "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11836,7 +11715,7 @@
       "word": "владелец",
       "maskedWord": "владел_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11848,7 +11727,7 @@
       "word": "иностранец",
       "maskedWord": "иностран_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11858,9 +11737,9 @@
     {
       "id": "w_1006",
       "word": "палец",
-      "maskedWord": "паль_ц",
+      "maskedWord": "пал_ц",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11870,9 +11749,9 @@
     {
       "id": "w_1007",
       "word": "пальтецо",
-      "maskedWord": "пальтец_",
+      "maskedWord": "пальт_цо",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11881,10 +11760,10 @@
     },
     {
       "id": "w_1008",
-      "word": "платьеце",
-      "maskedWord": "платьец_",
+      "word": "платьице",
+      "maskedWord": "плать_це",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11896,7 +11775,7 @@
       "word": "лужица",
       "maskedWord": "луж_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11908,7 +11787,7 @@
       "word": "сестрица",
       "maskedWord": "сестр_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11920,7 +11799,7 @@
       "word": "умница",
       "maskedWord": "умн_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11932,7 +11811,7 @@
       "word": "капельница",
       "maskedWord": "капельн_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11944,7 +11823,7 @@
       "word": "мельница",
       "maskedWord": "мельн_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11956,7 +11835,7 @@
       "word": "теплица",
       "maskedWord": "тепл_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11968,7 +11847,7 @@
       "word": "вещица",
       "maskedWord": "вещ_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11980,7 +11859,7 @@
       "word": "водица",
       "maskedWord": "вод_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -11992,7 +11871,7 @@
       "word": "книжица",
       "maskedWord": "книж_ца",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -12004,7 +11883,7 @@
       "word": "креслице",
       "maskedWord": "кресл_це",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_EC_IC",
       "options": [
         "е",
@@ -12016,7 +11895,7 @@
       "word": "креслице",
       "maskedWord": "син_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12028,7 +11907,7 @@
       "word": "пуговичка",
       "maskedWord": "пугов_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12040,7 +11919,7 @@
       "word": "лестничка",
       "maskedWord": "лестн_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12052,7 +11931,7 @@
       "word": "луковичка",
       "maskedWord": "луков_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12064,7 +11943,7 @@
       "word": "умничка",
       "maskedWord": "умн_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12076,7 +11955,7 @@
       "word": "частичка",
       "maskedWord": "част_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12088,7 +11967,7 @@
       "word": "сестричка",
       "maskedWord": "сестр_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12100,7 +11979,7 @@
       "word": "водичка",
       "maskedWord": "вод_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12112,7 +11991,7 @@
       "word": "ресничка",
       "maskedWord": "ресн_чка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12124,7 +12003,7 @@
       "word": "копеечка",
       "maskedWord": "копе_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12136,7 +12015,7 @@
       "word": "ситечко",
       "maskedWord": "сит_чко",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12148,7 +12027,7 @@
       "word": "времечко",
       "maskedWord": "врем_чко",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12160,7 +12039,7 @@
       "word": "семечко",
       "maskedWord": "сем_чко",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12172,7 +12051,7 @@
       "word": "танечка",
       "maskedWord": "тан_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12184,7 +12063,7 @@
       "word": "олечка",
       "maskedWord": "ол_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12196,7 +12075,7 @@
       "word": "ванечка",
       "maskedWord": "ван_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12208,7 +12087,7 @@
       "word": "манечка",
       "maskedWord": "ман_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12220,7 +12099,7 @@
       "word": "сашечка",
       "maskedWord": "саш_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12232,7 +12111,7 @@
       "word": "юлечка",
       "maskedWord": "юл_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12244,7 +12123,7 @@
       "word": "катечка",
       "maskedWord": "кат_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12256,7 +12135,7 @@
       "word": "машечка",
       "maskedWord": "маш_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12268,7 +12147,7 @@
       "word": "петечка",
       "maskedWord": "пет_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12280,7 +12159,7 @@
       "word": "данечка",
       "maskedWord": "дан_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12292,7 +12171,7 @@
       "word": "нинечка",
       "maskedWord": "нин_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12304,7 +12183,7 @@
       "word": "лилечка",
       "maskedWord": "лил_чка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_ICHK_ECHK",
       "options": [
         "е",
@@ -12316,7 +12195,7 @@
       "word": "лилечка",
       "maskedWord": "горош_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12328,7 +12207,7 @@
       "word": "жемчужинка—жемчуж_нка(и;е)",
       "maskedWord": "жемчуж_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12340,7 +12219,7 @@
       "word": "трещинка—трещ_нка(и;е)",
       "maskedWord": "трещ_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12349,10 +12228,10 @@
     },
     {
       "id": "w_1047",
-      "word": "соломинка—солом_нка(и;е)",
+      "word": "соломинка",
       "maskedWord": "солом_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12361,10 +12240,10 @@
     },
     {
       "id": "w_1048",
-      "word": "ссадинка—ссад_нка(и;е)",
+      "word": "ссадинка",
       "maskedWord": "ссад_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12373,22 +12252,10 @@
     },
     {
       "id": "w_1049",
-      "word": "скважинка—скваж_нка(и;е)",
+      "word": "скважинка",
       "maskedWord": "скваж_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
-      "ruleId": "SUF_INK_ENK",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1050",
-      "word": "щетинка—щет_нка(и;е)",
-      "maskedWord": "щет_нка",
-      "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12400,7 +12267,7 @@
       "word": "бусинка—бус_нка(и;е)",
       "maskedWord": "бус_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12409,58 +12276,10 @@
     },
     {
       "id": "w_1052",
-      "word": "смородинка—смород_нка(и;е)",
+      "word": "смородинка",
       "maskedWord": "смород_нка",
       "missingLetter": "и",
-      "wordPart": "suffix",
-      "ruleId": "SUF_INK_ENK",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1053",
-      "word": "западинка—запад_нка(и;е)",
-      "maskedWord": "запад_нка",
-      "missingLetter": "и",
-      "wordPart": "suffix",
-      "ruleId": "SUF_INK_ENK",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1054",
-      "word": "льдинка—льд_нка(и;е)",
-      "maskedWord": "льд_нка",
-      "missingLetter": "и",
-      "wordPart": "suffix",
-      "ruleId": "SUF_INK_ENK",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1055",
-      "word": "малинка—мал_нка(и;е)",
-      "maskedWord": "мал_нка",
-      "missingLetter": "и",
-      "wordPart": "suffix",
-      "ruleId": "SUF_INK_ENK",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1056",
-      "word": "паутинка—паут_нка(и;е)",
-      "maskedWord": "паут_нка",
-      "missingLetter": "и",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12472,7 +12291,7 @@
       "word": "вишенка—виш_нка(е;и)",
       "maskedWord": "виш_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12481,10 +12300,10 @@
     },
     {
       "id": "w_1058",
-      "word": "песенка—пес_нка(е;и)",
+      "word": "песенка",
       "maskedWord": "пес_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12493,10 +12312,10 @@
     },
     {
       "id": "w_1059",
-      "word": "башенка—баш_нка(е;и)",
+      "word": "башенка",
       "maskedWord": "баш_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12505,10 +12324,10 @@
     },
     {
       "id": "w_1060",
-      "word": "сосенка—сос_нка(е;и)",
+      "word": "сосенка",
       "maskedWord": "сос_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12517,10 +12336,10 @@
     },
     {
       "id": "w_1061",
-      "word": "черешенка—череш_нка(е;и)",
+      "word": "черешенка",
       "maskedWord": "череш_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12529,22 +12348,10 @@
     },
     {
       "id": "w_1062",
-      "word": "пашенка—паш_нка(е;и)",
+      "word": "пашенка",
       "maskedWord": "паш_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
-      "ruleId": "SUF_INK_ENK",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
-      "id": "w_1063",
-      "word": "кухненка—кухн_нка(е;и)",
-      "maskedWord": "кухн_нка",
-      "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12553,10 +12360,10 @@
     },
     {
       "id": "w_1064",
-      "word": "нищенка—нищ_нка(е;и)",
+      "word": "нищенка",
       "maskedWord": "нищ_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12565,10 +12372,10 @@
     },
     {
       "id": "w_1065",
-      "word": "завалинка—завал_нка(е;и)",
+      "word": "завалинка",
       "maskedWord": "завал_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12577,10 +12384,10 @@
     },
     {
       "id": "w_1066",
-      "word": "деревенька—дерев_нка(е;и)",
-      "maskedWord": "дерев_нка",
+      "word": "деревенька(е;и)",
+      "maskedWord": "дерев_нька",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12589,10 +12396,10 @@
     },
     {
       "id": "w_1067",
-      "word": "монашенка—монаш_нка(е;и)",
-      "maskedWord": "монаш_нка",
-      "missingLetter": "е",
-      "wordPart": "suffix",
+      "word": "горошинка",
+      "maskedWord": "горош_нка",
+      "missingLetter": "и",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12601,10 +12408,34 @@
     },
     {
       "id": "w_1068",
-      "word": "француженка—француж_нка(е;и)переводчик",
+      "word": "изюминка",
+      "maskedWord": "изюм_нка",
+      "missingLetter": "и",
+      "wordPart": "SUFFIX",
+      "ruleId": "SUF_INK_ENK",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1068",
+      "word": "француженка",
       "maskedWord": "француж_нка",
       "missingLetter": "е",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
+      "ruleId": "SUF_INK_ENK",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1068",
+      "word": "бисеринка",
+      "maskedWord": "бисер_нка",
+      "missingLetter": "и",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_INK_ENK",
       "options": [
         "е",
@@ -12613,10 +12444,10 @@
     },
     {
       "id": "w_1069",
-      "word": "француженка—француж_нка(е;и)переводчик",
+      "word": "переводчик",
       "maskedWord": "перевод_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12628,7 +12459,7 @@
       "word": "раздатчик",
       "maskedWord": "раздат_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12640,7 +12471,7 @@
       "word": "перебежчик",
       "maskedWord": "перебеж_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12652,7 +12483,7 @@
       "word": "смазчик",
       "maskedWord": "смаз_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12664,7 +12495,7 @@
       "word": "извозчик",
       "maskedWord": "извоз_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12676,7 +12507,7 @@
       "word": "доносчик",
       "maskedWord": "донос_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12688,7 +12519,7 @@
       "word": "резчик",
       "maskedWord": "рез_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12700,7 +12531,7 @@
       "word": "заказчик",
       "maskedWord": "заказ_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12712,7 +12543,7 @@
       "word": "сборщик",
       "maskedWord": "сбор_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12724,7 +12555,7 @@
       "word": "каменщик",
       "maskedWord": "камен_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12736,7 +12567,7 @@
       "word": "фонарщик",
       "maskedWord": "фонар_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12748,7 +12579,7 @@
       "word": "стекольщик",
       "maskedWord": "стеколь_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12760,7 +12591,7 @@
       "word": "кровельщик",
       "maskedWord": "кровель_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12772,7 +12603,7 @@
       "word": "банщик",
       "maskedWord": "бан_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12784,7 +12615,7 @@
       "word": "бетонщик",
       "maskedWord": "бетон_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12796,7 +12627,7 @@
       "word": "крановщик",
       "maskedWord": "кранов_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12808,7 +12639,7 @@
       "word": "буфетчик",
       "maskedWord": "буфет_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12820,7 +12651,7 @@
       "word": "лётчик",
       "maskedWord": "лёт_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12832,7 +12663,7 @@
       "word": "грузчик",
       "maskedWord": "груз_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12844,7 +12675,7 @@
       "word": "докладчик",
       "maskedWord": "доклад_ик",
       "missingLetter": "ч",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12856,7 +12687,7 @@
       "word": "автощик",
       "maskedWord": "авто_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12868,7 +12699,7 @@
       "word": "дрессировщик",
       "maskedWord": "дрессиров_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12880,7 +12711,7 @@
       "word": "сварщик",
       "maskedWord": "свар_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12892,7 +12723,7 @@
       "word": "пильщик",
       "maskedWord": "пиль_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",
@@ -12904,7 +12735,7 @@
       "word": "токарщик",
       "maskedWord": "токар_ик",
       "missingLetter": "щ",
-      "wordPart": "suffix",
+      "wordPart": "SUFFIX",
       "ruleId": "SUF_CHIK_SHCHIK",
       "options": [
         "ч",

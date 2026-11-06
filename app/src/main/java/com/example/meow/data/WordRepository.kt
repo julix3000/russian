@@ -30,7 +30,7 @@ object WordRepository {
             // Читаем корневой объект JSON
             val rootObject = JSONObject(jsonString)
 
-            // 1. Собираем правила в удобный словарь (ключ -> текст правила)
+
             val rulesMap = mutableMapOf<String, Pair<String, String>>()
             val rulesArray = rootObject.optJSONArray("rules")
             if (rulesArray != null) {
