@@ -1628,8 +1628,8 @@
     },
     {
       "id": "w_125",
-      "word": " компания",
-      "maskedWord": "к_мпания",
+      "word": "компания",
+      "maskedWord": "к_мпания (друзей)",
       "missingLetter": "о",
       "wordPart": "ROOT",
       "ruleId": "ROOT_VOC",
@@ -3972,8 +3972,8 @@
     },
     {
       "id": "w_321",
-      "word": "(военная) кампания",
-      "maskedWord": "к_мпания",
+      "word": "кампания",
+      "maskedWord": "(военная) к_мпания",
       "missingLetter": "а",
       "wordPart": "ROOT",
       "ruleId": "ROOT_VOC",
@@ -12704,8 +12704,30 @@
         "ч",
         "щ"
       ]
+    },
+    {
+      "id": "w_1094",
+      "word": "косатка",
+      "maskedWord": "(океаническая) к_сатка",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1095",
+      "word": "касатка",
+      "maskedWord": "(птица) к_сатка",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
     }
-
-
   ]
 }
