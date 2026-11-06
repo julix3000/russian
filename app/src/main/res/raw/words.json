@@ -1838,7 +1838,6 @@
       "wordPart": "ROOT",
       "ruleId": "ROOT_VOC",
       "options": [
-        "а",
         "е",
         "и"
       ]
@@ -4800,18 +4799,6 @@
       ]
     },
     {
-      "id": "w_392",
-      "word": " правило",
-      "maskedWord": "пр_вило",
-      "missingLetter": "а",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_VOC",
-      "options": [
-        "а",
-        "о"
-      ]
-    },
-    {
       "id": "w_393",
       "word": " правильный",
       "maskedWord": "пр_вильный",
@@ -6061,18 +6048,6 @@
       ]
     },
     {
-      "id": "w_501",
-      "word": " передерешь",
-      "maskedWord": "перед_решь",
-      "missingLetter": "е",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_DER_DIR",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
       "id": "w_502",
       "word": "замирать",
       "maskedWord": "зам_рать",
@@ -7285,18 +7260,6 @@
       ]
     },
     {
-      "id": "w_606",
-      "word": " переблистать",
-      "maskedWord": "перебл_стать",
-      "missingLetter": "и",
-      "wordPart": "ROOT",
-      "ruleId": "ROOT_BLEST_BLIST",
-      "options": [
-        "е",
-        "и"
-      ]
-    },
-    {
       "id": "w_607",
       "word": " блистающий",
       "maskedWord": "бл_стающий",
@@ -7526,9 +7489,9 @@
     },
     {
       "id": "w_628",
-      "word": " четою",
-      "maskedWord": "ч_тою",
-      "missingLetter": "е",
+      "word": " чи таю",
+      "maskedWord": "ч_таю",
+      "missingLetter": "и",
       "wordPart": "ROOT",
       "ruleId": "ROOT_CHIT_CHET",
       "options": [
@@ -7538,7 +7501,7 @@
     },
     {
       "id": "w_629",
-      "word": " чете",
+      "word": "чете",
       "maskedWord": "ч_те",
       "missingLetter": "е",
       "wordPart": "ROOT",
