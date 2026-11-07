@@ -12705,8 +12705,1593 @@
         "щ"
       ]
     },
+
     {
       "id": "w_1094",
+      "word": " абитуриент",
+      "maskedWord": "аб_туриент",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1095",
+      "word": " абонемент",
+      "maskedWord": "аб_немент",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1096",
+      "word": " абрикос",
+      "maskedWord": "абр_кос",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1097",
+      "word": " аквамарин",
+      "maskedWord": "акв_марин",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1098",
+      "word": " антресоли",
+      "maskedWord": "антр_соли",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1099",
+      "word": " апелляция",
+      "maskedWord": "ап_лляция",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1100",
+      "word": " аппаратура",
+      "maskedWord": "апп_ратура",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1101",
+      "word": " архитектор",
+      "maskedWord": "арх_тектор",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1102",
+      "word": " асфальт",
+      "maskedWord": "_сфальт",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1103",
+      "word": " атмосфера",
+      "maskedWord": "атм_сфера",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1104",
+      "word": " аттракцион",
+      "maskedWord": "_ттракцион",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1105",
+      "word": " бадминтон",
+      "maskedWord": "б_дминтон",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1106",
+      "word": " балансировать",
+      "maskedWord": "б_лансировать",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1107",
+      "word": " барельеф",
+      "maskedWord": "б_рельеф",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1108",
+      "word": " баскетбол",
+      "maskedWord": "баск_тбол",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1109",
+      "word": " бассейн",
+      "maskedWord": "б_ссейн",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1110",
+      "word": " беречь",
+      "maskedWord": "б_речь",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1111",
+      "word": " вентилятор",
+      "maskedWord": "вент_лятор",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1112",
+      "word": " вермишель",
+      "maskedWord": "вермешель",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "а"
+      ]
+    },
+    {
+      "id": "w_1113",
+      "word": " владеть",
+      "maskedWord": "вл_деть",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1114",
+      "word": " вокзал",
+      "maskedWord": "в_кзал",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1115",
+      "word": " выразительный",
+      "maskedWord": "выр_зительный",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1116",
+      "word": " газон",
+      "maskedWord": "г_зон",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1117",
+      "word": " галактический",
+      "maskedWord": "гал_ктический",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1118",
+      "word": " гормон",
+      "maskedWord": "г_рмон",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1119",
+      "word": " декларация",
+      "maskedWord": "декл_рация",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1120",
+      "word": " деликатес",
+      "maskedWord": "дел_катес",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1121",
+      "word": " диалоговый",
+      "maskedWord": "ди_логовый",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1122",
+      "word": " динамика",
+      "maskedWord": "д_намика",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1123",
+      "word": " желание",
+      "maskedWord": "ж_лание",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1124",
+      "word": " жокей",
+      "maskedWord": "ж_кей",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1125",
+      "word": " жонглёр",
+      "maskedWord": "ж_нглёр",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1126",
+      "word": " знаменитый",
+      "maskedWord": "знам_нитый",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1127",
+      "word": " иждивенец",
+      "maskedWord": "ижд_венец",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1128",
+      "word": " иллюзия",
+      "maskedWord": "_ллюзия",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "и",
+        "э"
+      ]
+    },
+    {
+      "id": "w_1129",
+      "word": " инициатива",
+      "maskedWord": "ин_циатива",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1130",
+      "word": " инициатива",
+      "maskedWord": "иниц_атива",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1131",
+      "word": " интеллект",
+      "maskedWord": "инт_ллект",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1132",
+      "word": " интенсивный",
+      "maskedWord": "инт_нсивный",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1133",
+      "word": " искажение",
+      "maskedWord": "иск_жение",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1134",
+      "word": " кампания (мероприятие)",
+      "maskedWord": "к_мпания",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1135",
+      "word": " каморка",
+      "maskedWord": "к_морка",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1136",
+      "word": " канитель",
+      "maskedWord": "кан_тель",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1137",
+      "word": " кардинальный",
+      "maskedWord": "к_рдинальный",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1138",
+      "word": " касатка",
+      "maskedWord": "к_сатка (ласточка)",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1139",
+      "word": " катакомба",
+      "maskedWord": "кат_комба",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1140",
+      "word": " катастрофа",
+      "maskedWord": "кат_строфа",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1141",
+      "word": " квалификация",
+      "maskedWord": "квал_фикация",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1142",
+      "word": " квалификация",
+      "maskedWord": "квалиф_кация",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1143",
+      "word": " кинематограф",
+      "maskedWord": "кинем_тограф",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1144",
+      "word": " колебаться",
+      "maskedWord": "к_лебаться",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1145",
+      "word": " колыхаться",
+      "maskedWord": "к_лыхаться",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1146",
+      "word": " компетенция",
+      "maskedWord": "комп_тенция",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1147",
+      "word": " компонент",
+      "maskedWord": "комп_нент",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1148",
+      "word": " континент",
+      "maskedWord": "конт_нент",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1149",
+      "word": " конфликтовать",
+      "maskedWord": "к_нфликтовать",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1150",
+      "word": " корифей",
+      "maskedWord": "к_рифей",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1151",
+      "word": " косатка",
+      "maskedWord": "к_сатка (морское млекопитающее)",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1152",
+      "word": " лабиринт",
+      "maskedWord": "лаб_ринт",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1153",
+      "word": " ладья",
+      "maskedWord": "л_дья",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1154",
+      "word": " легендарный",
+      "maskedWord": "лег_ндарный",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1155",
+      "word": " лелеять",
+      "maskedWord": "л_леять",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1156",
+      "word": " лингвистический",
+      "maskedWord": "лингв_стический",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1157",
+      "word": " мажорный",
+      "maskedWord": "м_жорный",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1158",
+      "word": " менталитет",
+      "maskedWord": "м_нталитет",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1159",
+      "word": " менталитет",
+      "maskedWord": "ментал_тет",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1160",
+      "word": " мероприятие",
+      "maskedWord": "м_роприятие",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1161",
+      "word": " минорный",
+      "maskedWord": "м_норный",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1162",
+      "word": " монолит",
+      "maskedWord": "м_нолит",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1163",
+      "word": " мораторий",
+      "maskedWord": "м_раторий",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1164",
+      "word": " наваждение",
+      "maskedWord": "нав_ждение",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1165",
+      "word": " обнаружить",
+      "maskedWord": "обн_ружить",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1166",
+      "word": " оборона",
+      "maskedWord": "об_рона",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1167",
+      "word": " озорной",
+      "maskedWord": "оз_рной",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1168",
+      "word": " опекун",
+      "maskedWord": "_пекун",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1169",
+      "word": " оригинальный",
+      "maskedWord": "_ригинальный",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1170",
+      "word": "оригинальный",
+      "maskedWord": "ор_гинальный",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1171",
+      "word": " _рнамент",
+      "maskedWord": "_пекун",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1172",
+      "word": " палитра",
+      "maskedWord": "п_литра",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1173",
+      "word": " параграф",
+      "maskedWord": "п_раграф",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1174",
+      "word": " парадокс",
+      "maskedWord": "пар_докс",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1175",
+      "word": " парадокс",
+      "maskedWord": "п_радокс",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1176",
+      "word": " покой",
+      "maskedWord": "п_кой",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1177",
+      "word": " презентация",
+      "maskedWord": "пр_зентация",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1178",
+      "word": " прецедент",
+      "maskedWord": "прец_дент",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1179",
+      "word": " провинция",
+      "maskedWord": "пр_винция",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1180",
+      "word": " провоцировать",
+      "maskedWord": "пров_цировать",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1181",
+      "word": " провоцировать",
+      "maskedWord": "пр_воцировать",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1182",
+      "word": " проницательный",
+      "maskedWord": "прон_цательный",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1183",
+      "word": " радиатор",
+      "maskedWord": "рад_атор",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1184",
+      "word": " радиатор",
+      "maskedWord": "р_диатор",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1185",
+      "word": " режиссёр",
+      "maskedWord": "р_жиссёр",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1186",
+      "word": " ремесло",
+      "maskedWord": "р_месло",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1187",
+      "word": " риторика",
+      "maskedWord": "р_торика",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1188",
+      "word": " ровесники",
+      "maskedWord": "р_весники",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1189",
+      "word": " салютовать",
+      "maskedWord": "с_лютовать",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1190",
+      "word": " сварливый",
+      "maskedWord": "св_рливый",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1191",
+      "word": " свидетель",
+      "maskedWord": "св_детель",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1192",
+      "word": " симпатия",
+      "maskedWord": "с_мпатия",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1193",
+      "word": " синхронизировать",
+      "maskedWord": "синхр_низировать",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1194",
+      "word": " снаряжение",
+      "maskedWord": "сн_ряжение",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1195",
+      "word": " сонет",
+      "maskedWord": "с_нет",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1196",
+      "word": " сострадать",
+      "maskedWord": "состр_дать",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1197",
+      "word": " спокойный",
+      "maskedWord": "сп_койный",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1198",
+      "word": " сувенир",
+      "maskedWord": "сув_нир",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1199",
+      "word": " сумеречный",
+      "maskedWord": "сум_речный",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1200",
+      "word": " теория",
+      "maskedWord": "т_ория",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1201",
+      "word": " трамвайный",
+      "maskedWord": "тр_мвайный",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1202",
+      "word": " тротуар",
+      "maskedWord": "тр_туар",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1203",
+      "word": " угощать",
+      "maskedWord": "уг_щать",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1204",
+      "word": " уникальный",
+      "maskedWord": "ун_кальный",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1205",
+      "word": " уничтожить",
+      "maskedWord": "ун_чтожить",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1206",
+      "word": " утрамбовать",
+      "maskedWord": "утр_мбовать",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1207",
+      "word": " уязвлённый",
+      "maskedWord": "у_звлённый",
+      "missingLetter": "я",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "я"
+      ]
+    },
+    {
+      "id": "w_1208",
+      "word": " фантастический",
+      "maskedWord": "ф_нтастический",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1209",
+      "word": " фантастический",
+      "maskedWord": "фант_стический",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1210",
+      "word": " фестиваль",
+      "maskedWord": "ф_стиваль",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1211",
+      "word": " фестиваль",
+      "maskedWord": "фест_валь",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1212",
+      "word": " фрагментарный",
+      "maskedWord": "фр_гментарный",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1213",
+      "word": " фразеология",
+      "maskedWord": "фраз_ология",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1214",
+      "word": " цементный",
+      "maskedWord": "ц_ментный",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1215",
+      "word": " цистерна",
+      "maskedWord": "ц_стерна",
+      "missingLetter": "и",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1216",
+      "word": " человеческий",
+      "maskedWord": "чел_веческий",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1217",
+      "word": " шеренга",
+      "maskedWord": "ш_ренга",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1218",
+      "word": " шоколад",
+      "maskedWord": "ш_колад",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1219",
+      "word": " шоколад",
+      "maskedWord": "шок_лад",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1220",
+      "word": " шоссе",
+      "maskedWord": "ш_ссе",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1221",
+      "word": " шофёр",
+      "maskedWord": "ш_фёр",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1222",
+      "word": " экономика",
+      "maskedWord": "эк_номика",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1223",
+      "word": " экспонат",
+      "maskedWord": "эксп_нат",
+      "missingLetter": "о",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1224",
+      "word": " экстремальный",
+      "maskedWord": "экстр_мальный",
+      "missingLetter": "е",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "е",
+        "и"
+      ]
+    },
+    {
+      "id": "w_1225",
+      "word": " эстакада",
+      "maskedWord": "эст_када",
+      "missingLetter": "а",
+      "wordPart": "ROOT",
+      "ruleId": "ROOT_VOC",
+      "options": [
+        "а",
+        "о"
+      ]
+    },
+    {
+      "id": "w_1226",
       "word": "косатка",
       "maskedWord": "(океаническая) к_сатка",
       "missingLetter": "о",
@@ -12718,7 +14303,7 @@
       ]
     },
     {
-      "id": "w_1095",
+      "id": "w_1227",
       "word": "касатка",
       "maskedWord": "(птица) к_сатка",
       "missingLetter": "а",
