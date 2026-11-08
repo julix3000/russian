@@ -15,11 +15,15 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.meow.data.AccentRepository
+import kotlin.random.Random
 
 data class AccentCard(
     val id: String,
@@ -46,7 +50,7 @@ fun AccentScreen(
         AccentRepository.loadAccentsOnce(context)
         AccentRepository.getAllAccents()
     }
-    var currentIndex by remember { mutableIntStateOf(0) }
+    var currentIndex by remember { mutableIntStateOf(Random.nextInt(0, wordsList.size)) }
 
     var selectedVowelIndex by remember { mutableStateOf<Int?>(null) }
     var isChecked by remember { mutableStateOf(false) }
@@ -240,12 +244,13 @@ fun AccentScreen(
                             )
 
                             Spacer(modifier = Modifier.height(16.dp))
-
-                            OutlinedButton(
-                                onClick = { showRule = !showRule },
-                                shape = RoundedCornerShape(8.dp)
-                            ) {
-                                Text(if (showRule) "Скрыть правило" else "Посмотреть правило")
+                            if (currentCard.ruleTitle != "") {
+                                OutlinedButton(
+                                    onClick = { showRule = !showRule },
+                                    shape = RoundedCornerShape(8.dp)
+                                ) {
+                                    Text(if (showRule) "Скрыть правило" else "Посмотреть правило")
+                                }
                             }
 
                             if (showRule) {
@@ -258,7 +263,29 @@ fun AccentScreen(
                                 ) {
                                     Text(text = currentCard.ruleTitle, fontWeight = FontWeight.Bold, fontSize = 14.sp)
                                     Spacer(modifier = Modifier.height(4.dp))
-                                    Text(text = currentCard.ruleExplanation, fontSize = 13.sp, color = Color.DarkGray)
+
+                                    val annotatedExplanation = buildAnnotatedString {
+                                        val index =
+                                            currentCard.ruleExplanation.indexOf("исключен", ignoreCase = true)
+                                        if (index != -1) {
+                                            append(currentCard.ruleExplanation.substring(0, index))
+                                            withStyle(
+                                                style = SpanStyle(
+                                                    fontWeight = FontWeight.Bold,
+                                                    color = Color.Black
+                                                )
+                                            ) {
+                                                append(currentCard.ruleExplanation.substring(index))
+                                            }
+                                        } else {
+                                            append(currentCard.ruleExplanation)
+                                        }
+                                    }
+                                    Text(
+                                        text = annotatedExplanation,
+                                        fontSize = 13.sp,
+                                        color = Color.DarkGray
+                                    )
                                 }
                             }
                         }
@@ -285,14 +312,11 @@ fun AccentScreen(
                             }
                         }
                     } else {
-                        if (currentIndex < wordsList.size - 1) {
-                            currentIndex++
-                            selectedVowelIndex = null
-                            isChecked = false
-                            showRule = false
-                        } else {
-                            onBack()
-                        }
+                        currentIndex= Random.nextInt(0, wordsList.size)
+                        selectedVowelIndex = null
+                        isChecked = false
+                        showRule = false
+
                     }
                 },
                 enabled = isChecked || selectedVowelIndex != null,

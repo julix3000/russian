@@ -30,7 +30,7 @@ object AccentRepository {
                 list.add(AccentCard(id, word, stressedIndex, ruleTitle, ruleExplanation))
             }
 
-            accentsList = list.shuffled()
+            accentsList = list
         } catch (e: Exception) {
             e.printStackTrace()
             accentsList = emptyList()

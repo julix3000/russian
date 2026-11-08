@@ -106,6 +106,6 @@ object WordRepository {
                 ruleExplanation = item.ruleExplanation,
                 options = item.options
             )
-        }.shuffled()
+        }
     }
 }
