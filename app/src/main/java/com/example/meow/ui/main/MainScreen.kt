@@ -20,7 +20,7 @@ fun MainScreen(
     onStartTraining: (selectedCategories: Set<String>) -> Unit,
     onStartAccents: () -> Unit
 ) {
-    // 1. Изначально все галочки сняты (false)
+
     var rootsSelected by remember { mutableStateOf(false) }
     var prefixesSelected by remember { mutableStateOf(false) }
     var suffixesSelected by remember { mutableStateOf(false) }
