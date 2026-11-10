@@ -22,6 +22,7 @@ import com.example.meow.data.WordRepository
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.withStyle
+import kotlin.random.Random
 
 
 data class WordCard(
@@ -53,7 +54,7 @@ fun CardScreen(
         WordRepository.getCardsForCategories(selectedCategories)
     }
 
-    var currentIndex by remember { mutableIntStateOf(0) }
+    var currentIndex by remember { mutableIntStateOf(Random.nextInt(0, wordsList.size)) }
     var selectedOption by remember { mutableStateOf<String?>(null) }
     var isChecked by remember { mutableStateOf(false) }
     var isCorrect by remember { mutableStateOf(false) }
@@ -332,14 +333,11 @@ fun CardScreen(
                             }
                         }
                     } else {
-                        if (currentIndex < wordsList.size - 1) {
-                            currentIndex++
-                            selectedOption = null
-                            isChecked = false
-                            showRule = false
-                        } else {
-                            onBack()
-                        }
+                        currentIndex = Random.nextInt(0, wordsList.size)
+                        selectedOption = null
+                        isChecked = false
+                        showRule = false
+
                     }
                 },
                 enabled = isChecked || selectedOption != null,
