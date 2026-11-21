@@ -26,7 +26,6 @@ import com.example.meow.data.AccentRepository
 import kotlin.random.Random
 
 data class AccentCard(
-    val id: String,
     val word: String,
     val stressedIndex: Int,
     val ruleTitle: String,
@@ -249,7 +248,10 @@ fun AccentScreen(
                                     onClick = { showRule = !showRule },
                                     shape = RoundedCornerShape(8.dp)
                                 ) {
-                                    Text(if (showRule) "Скрыть правило" else "Посмотреть правило")
+                                    if (currentCard.ruleTitle == "Запоминалка"){
+                                        Text(if (showRule) "Скрыть запоминалку" else "Посмотреть запоминалку")
+                                    }
+                                    else {Text(if (showRule) "Скрыть правило" else "Посмотреть правило")}
                                 }
                             }
 
@@ -263,29 +265,43 @@ fun AccentScreen(
                                 ) {
                                     Text(text = currentCard.ruleTitle, fontWeight = FontWeight.Bold, fontSize = 14.sp)
                                     Spacer(modifier = Modifier.height(4.dp))
-
-                                    val annotatedExplanation = buildAnnotatedString {
-                                        val index =
-                                            currentCard.ruleExplanation.indexOf("исключен", ignoreCase = true)
-                                        if (index != -1) {
-                                            append(currentCard.ruleExplanation.substring(0, index))
-                                            withStyle(
-                                                style = SpanStyle(
-                                                    fontWeight = FontWeight.Bold,
-                                                    color = Color.Black
+                                    if (currentCard.ruleExplanation != "") {
+                                        val annotatedExplanation = buildAnnotatedString {
+                                            val index =
+                                                currentCard.ruleExplanation.indexOf(
+                                                    "исключен",
+                                                    ignoreCase = true
                                                 )
-                                            ) {
-                                                append(currentCard.ruleExplanation.substring(index))
+                                            if (index != -1) {
+                                                append(
+                                                    currentCard.ruleExplanation.substring(
+                                                        0,
+                                                        index
+                                                    )
+                                                )
+                                                withStyle(
+                                                    style = SpanStyle(
+                                                        fontWeight = FontWeight.Bold,
+                                                        color = Color.Black
+                                                    )
+                                                ) {
+                                                    append(
+                                                        currentCard.ruleExplanation.substring(
+                                                            index
+                                                        )
+                                                    )
+                                                }
+                                            } else {
+                                                append(currentCard.ruleExplanation)
                                             }
-                                        } else {
-                                            append(currentCard.ruleExplanation)
                                         }
+
+                                        Text(
+                                            text = annotatedExplanation,
+                                            fontSize = 13.sp,
+                                            color = Color.DarkGray
+                                        )
                                     }
-                                    Text(
-                                        text = annotatedExplanation,
-                                        fontSize = 13.sp,
-                                        color = Color.DarkGray
-                                    )
                                 }
                             }
                         }

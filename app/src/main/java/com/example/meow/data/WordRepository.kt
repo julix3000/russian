@@ -10,7 +10,6 @@ object WordRepository {
     private val allWords = mutableListOf<WordCardItem>()
 
     data class WordCardItem(
-        val id: String,
         val word: String,
         val maskedWord: String,
         val missingLetter: String,
@@ -78,7 +77,6 @@ object WordRepository {
 
                 allWords.add(
                     WordCardItem(
-                        id = obj.optString("id", "w_$i"),
                         word = cleanWord,
                         maskedWord = masked,
                         missingLetter = missingLetter,

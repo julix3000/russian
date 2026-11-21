@@ -267,11 +267,13 @@ fun CardScreen(
 
                             Spacer(modifier = Modifier.height(16.dp))
 
-                            OutlinedButton(
-                                onClick = { showRule = !showRule },
-                                shape = RoundedCornerShape(8.dp)
-                            ) {
-                                Text(if (showRule) "Скрыть правило" else "Посмотреть правило")
+                            if (currentCard.ruleTitle != "") {
+                                OutlinedButton(
+                                    onClick = { showRule = !showRule },
+                                    shape = RoundedCornerShape(8.dp)
+                                ) {
+                                    Text(if (showRule) "Скрыть правило" else "Посмотреть правило")
+                                }
                             }
 
                             if (showRule) {
@@ -282,31 +284,48 @@ fun CardScreen(
                                         .background(Color(0xFFF5F5F5), RoundedCornerShape(8.dp))
                                         .padding(12.dp)
                                 ) {
-                                    Text(text = currentCard.ruleTitle, fontWeight = FontWeight.Bold, fontSize = 14.sp)
-                                    Spacer(modifier = Modifier.height(4.dp))
-
-                                    val annotatedExplanation = buildAnnotatedString {
-                                        val index =
-                                            currentCard.ruleExplanation.indexOf("исключен", ignoreCase = true)
-                                        if (index != -1) {
-                                            append(currentCard.ruleExplanation.substring(0, index))
-                                            withStyle(
-                                                style = SpanStyle(
-                                                    fontWeight = FontWeight.Bold,
-                                                    color = Color.Black
-                                                )
-                                            ) {
-                                                append(currentCard.ruleExplanation.substring(index))
-                                            }
-                                        } else {
-                                            append(currentCard.ruleExplanation)
-                                        }
-                                    }
                                     Text(
-                                        text = annotatedExplanation,
-                                        fontSize = 13.sp,
-                                        color = Color.DarkGray
+                                        text = currentCard.ruleTitle,
+                                        fontWeight = FontWeight.Bold,
+                                        fontSize = 14.sp
                                     )
+                                    Spacer(modifier = Modifier.height(4.dp))
+                                    if (currentCard.ruleExplanation != "") {
+                                        val annotatedExplanation = buildAnnotatedString {
+                                            val index =
+                                                currentCard.ruleExplanation.indexOf(
+                                                    "исключен",
+                                                    ignoreCase = true
+                                                )
+                                            if (index != -1) {
+                                                append(
+                                                    currentCard.ruleExplanation.substring(
+                                                        0,
+                                                        index
+                                                    )
+                                                )
+                                                withStyle(
+                                                    style = SpanStyle(
+                                                        fontWeight = FontWeight.Bold,
+                                                        color = Color.Black
+                                                    )
+                                                ) {
+                                                    append(
+                                                        currentCard.ruleExplanation.substring(
+                                                            index
+                                                        )
+                                                    )
+                                                }
+                                            } else {
+                                                append(currentCard.ruleExplanation)
+                                            }
+                                        }
+                                        Text(
+                                            text = annotatedExplanation,
+                                            fontSize = 13.sp,
+                                            color = Color.DarkGray
+                                        )
+                                    }
                                 }
                             }
                         }
